@@ -1,4 +1,4 @@
-AI RAG (Retrieval-Augmented Generation) chatbot that answers questions based on user provided PDF files. Program will then parse your PDF files before outputting the answer as well as which PDF file the answer was found.
+AI RAG (Retrieval-Augmented Generation) chatbot that answers questions based on user provided PDFs. Program will then parse your PDFs before outputting the answer as well as which PDF the answer was found.
 
 Embeddings used: Huggingface
 Vector store: ChromeDB
@@ -13,6 +13,6 @@ INSTRUCTIONS:
 
 3. Add your personal Gemini API key
 
-4. Add personal PDF files to user_data folder and run embeddings.py
+4. Add personal PDFs to user_data folder and run embeddings.py
 
 4. Run chat.py to start chatbot
