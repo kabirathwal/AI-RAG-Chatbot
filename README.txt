@@ -7,12 +7,12 @@ LLM: Google Gemini Pro
 
 INSTRUCTIONS:
 
-1. Set up virtual environment with all packages in requirements.txt installed
+1. Set up python virtual environment with all packages in requirements.txt installed
 
 2. Ensure all packages are installed and working in your virtual environment
 
 3. Add your personal Gemini API key
 
-4. Add personal PDF files and run embeddings.py
+4. Add personal PDF files to user_data folder and run embeddings.py
 
 4. Run chat.py to start chatbot
