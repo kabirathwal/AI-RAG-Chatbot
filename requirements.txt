@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchaib-huggingface
+chromadb
+pypdf
+sentence-transformers
+google-generativeAI

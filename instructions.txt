@@ -1,0 +1,7 @@
+Set up virtual environment with all packages in requirements.txt installed.
+
+Ensure all packages are installed and working in your virtual environment.
+
+Add your personal Gemini API key.
+
+Run chat.py to start chatbot.
