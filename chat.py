@@ -5,7 +5,9 @@ import sys
 from langchain_community.vectorstores import Chroma
 import google.generativeai as genai
 from langchain_huggingface import HuggingFaceEmbeddings
-GEMINI_API_KEY = "AIzaSyCKPNmbIYH0aY26exLFuTSWfxc98j-5qkk"
+
+# ADD PERSONAL API KEY:
+GEMINI_API_KEY = ""
 
 # Embeddings: Huggingface
 # Vector store: ChromaDB
