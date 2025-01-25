@@ -1,4 +1,4 @@
-AI RAG (Retrieval-Augmented Generation) chatbot that answers questions based on user provided PDF files
+AI RAG (Retrieval-Augmented Generation) chatbot that answers questions based on user provided PDF files. Program will then parse your PDF files before outputting the answer as well as which PDF file the answer was found.
 
 Embeddings used: Huggingface
 Vector store: ChromeDB
