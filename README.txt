@@ -13,4 +13,6 @@ INSTRUCTIONS:
 
 3. Add your personal Gemini API key
 
+4. Add personal PDF files and run embeddings.py
+
 4. Run chat.py to start chatbot
